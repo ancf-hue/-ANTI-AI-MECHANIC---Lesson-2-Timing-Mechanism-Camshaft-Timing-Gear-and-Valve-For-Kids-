@@ -1,0 +1,35 @@
+# ROBOTS.TXT для ANTI AI MECHANIC
+# Инструкции для поисковых роботов
+
+User-agent: *
+Allow: /
+
+# Запрещаем индексацию служебных папок (если есть)
+Disallow: /assets/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+
+# Запрещаем индексацию временных и тестовых файлов
+Disallow: /temp/
+Disallow: /test/
+Disallow: /backup/
+Disallow: /*.tmp$
+Disallow: /*.log$
+
+# Запрещаем индексацию пустых страниц
+Disallow: /404.html
+
+# Указываем путь к карте сайта
+Sitemap: https://anti-ai-mechanic.vercel.app/sitemap.xml
+
+# Основные настройки для поисковых систем
+Host: https://anti-ai-mechanic.vercel.app
+
+# Задержка между запросами для уважения к серверу (в секундах)
+Crawl-delay: 1
+
+# Предпочитаемая версия сайта (для Google)
+# Указываем, что основная версия с www или без
+# Если у вас без www, то закомментируйте следующую строку
+# Host: www.anti-ai-mechanic.vercel.app

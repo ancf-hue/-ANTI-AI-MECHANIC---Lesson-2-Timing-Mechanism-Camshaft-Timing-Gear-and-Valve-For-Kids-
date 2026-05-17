@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Главная страница (каталог всех уроков) -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Урок 1: Двигатель (Коленвал, Шатун, Поршень) -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson1</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Урок 2: ГРМ (Распредвал, Шестерня, Клапан) -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson2</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Урок 3: Трансмиссия (Маховик, Сцепление, Вал КПП) -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson3</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Урок 4: Турбонаддув (Улитка, Крыльчатка, Интеркулер) -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson4</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Альтернативные URL для уроков с index.html -->
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson1/index.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson2/index.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson3/index.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://anti-ai-mechanic.vercel.app/lesson4/index.html</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
