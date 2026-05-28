@@ -61,15 +61,22 @@ Correctly match each timing part with its mounting place. When all three parts a
 
 ## 🖼️ Screenshot
 ┌─────────────────────────────────────┐
+
 │ 🔧 ANTI AI MECHANIC - TIMING │
+
 │ │
 │ ┌─────────────────┐ │
+
 │ │ 🟣 CAMSHAFT │ │
+
 │ │ 🟠 TIMING │ │
+
 │ │ 🔵 VALVE │ │
+
 │ └─────────────────┘ │
 │ │
 │ ◀ ▼ ▶ │
+
 └─────────────────────────────────────┘
 
 text
@@ -110,11 +117,16 @@ text
 
 ## 🔧 Timing Mechanism Details
 
+
 | Part | Function | Color |
+
 |------|----------|-------|
 | Camshaft | Controls valve timing | 🟣 Purple |
+
 | Timing Gear | Transfers rotation | 🟠 Orange |
+
 | Valve | Lets gases in/out | 🔵 Blue |
+
 
 ---
 
@@ -149,50 +161,26 @@ Prohibited:
 - ❌ Remove author attribution
 
 ---
+🤝 ПОДДЕРЖАТЬ ПРОЕКТ
+💙
+Приложение бесплатное. Было и останется.
 
-## 🤝 Project Support
+Если проект помог вам или вашим близким — можете поддержать разработку добровольным переводом.
 
-The application is free and will remain so forever.  
-If the project helped you or your loved ones, you can support the development with a voluntary donation:
+📱 ПЕРЕВОД ПО НОМЕРУ ТЕЛЕФОНА:
+8-920-227-56-76
+📋 Копировать номер
+✅ Деньги придут мгновенно. Без комиссии. Безопасно.
 
-**📱 8-920-227-56-76** (SBP, no commission)
+❤️ Спасибо за поддержку!
 
-💙 Thank you for your support!
+🌟 👉https://ancf-hue.github.io/
+Каталог бесплатных офлайн-приложений Anti-AI Shield.
 
----
+-------------
 
-## 📱 Contacts
+## 📜 Лицензия
+Код доступен для изучения, модификации и некоммерческого использования.
+Коммерческое распространение или интеграция в платные сервисы допускается только с письменного согласия автора.
 
-- 🌐 **App Catalog:** [https://ancf-hue.github.io/](https://ancf-hue.github.io/)
-- 📧 For collaboration inquiries: (your email)
 
----
-
-## ⭐ Rate the Project
-
-If you liked the game — give it a star on GitHub!  
-This will help other parents and teachers find a useful application for children.
-
----
-
-## 📊 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2024 | First release - Engine Assembly |
-| 2.0.0 | 2024 | Lesson 2 - Timing Mechanism |
-
----
-
-## 🔄 All Lessons
-
-| Lesson | Topic | Status |
-|--------|-------|--------|
-| Lesson 1 | Engine Assembly (Crankshaft + Connecting Rod + Piston) | ✅ Released |
-| Lesson 2 | Timing Mechanism (Camshaft + Timing Gear + Valve) | ✅ Released |
-| Lesson 3 | Transmission (Flywheel + Clutch + Gearbox Shaft) | 🔜 Coming Soon |
-| Lesson 4 | Turbocharger (Housing + Impeller + Intercooler) | 🔜 Coming Soon |
-
----
-
-**© ANTI AI MECHANIC — Learning mechanics by playing!** 🔧
